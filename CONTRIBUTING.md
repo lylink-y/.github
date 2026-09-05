@@ -33,7 +33,7 @@ proposal and considered for adoption as a Lylink project.
 
 The general workflow for contributing to a project is:
 
-1. **Find something interesting**: find a project, issue, or task you'd like to work on.
+1. **Find something interesting**: find a project you'd like to work on.
 2. **Understand what you are getting into**: read the project's `README.md`.
 3. **Check issues and roadmap**: look for existing tasks or planned work that you can contribute to.
 4. **Discuss if necessary**: if the work is substantial or unclear, discuss your approach with the project team before starting.
