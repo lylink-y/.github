@@ -15,6 +15,9 @@ We expect participants to:
 Harassment, discrimination, personal attacks, intimidation, and other
 behavior that makes participation unsafe or hostile are not acceptable.
 
+Violations of Lylink's rules or Code of Conduct may result in warnings, restrictions,
+removal of roles or access, suspension, or permanent removal from Lylink, at a Warden's discretion.
+
 ## Enforcement
 
 If you experience or witness behavior that violates this Code of Conduct,

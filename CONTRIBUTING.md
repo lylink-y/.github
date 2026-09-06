@@ -10,10 +10,8 @@ Everyone is welcome to contribute.
 Not every contribution needs to be code. You can contribute by:
 
 - Improving documentation
-- Researching and sharing relevant information
-- Testing and reporting problems
+- Testing and reporting bugs
 - Reviewing contributions
-- Finding and reporting bugs
 - Helping other contributors
 - Sharing knowledge and teaching others
 
@@ -26,8 +24,8 @@ Have an idea for a project? We'd love to hear it.
 Project ideas can be proposed in the appropriate Lylink Discord channel.
 Follow the guidelines there and see if others are interested in working on it.
 
-If an idea gains enough interest, it can be developed into a formal project
-proposal and considered for adoption as a Lylink project.
+Ideas that gain enough interest can be developed into a formal project proposal and
+considered for adoption as a Lylink project.
 
 ## Working on a project
 

@@ -1,84 +1,44 @@
 # Lylink Governance
 
 Lylink uses several roles to represent different levels of participation,
-trust, and responsibility. 
+trust, and responsibility.  
 
 ## Roles
 
 ### Member
 
-A **Member** is someone who participates in Lylink.
-
-Members may:
-
-- Participate in discussions
-- Ask questions and share knowledge
-- Participate in projects
-- Suggest ideas
-- Help other members
-
-Membership does not require a particular level of experience or contribution.
+- Participates in Lylink.
+- Can discuss, ask questions, share knowledge, participate in projects,
+  suggest ideas, and help others.
+- Has no formal organizational authority.
 
 ### Contributor
 
-A **Contributor** is a Member who makes meaningful contributions to Lylink's
-projects, infrastructure, or community.
-
-Contributions may include:
-
-- Writing code
-- Improving documentation
-- Testing and reporting problems
-- Research and analysis
-- Reviewing contributions
-- Design and other creative work
-- Helping other contributors
-- Sharing knowledge and teaching
-
-Contributors may receive additional access or responsibilities as appropriate
-to their involvement and the trust they have established.
-
-Being a Contributor does not, by itself, grant organizational authority.
+- A Member who makes meaningful contributions to projects, infrastructure,
+  or the community.
+- May receive additional access or responsibility according to involvement
+  and trust, but has no formal organizational authority by virtue of the role.
 
 ### Keeper
 
-A **Keeper** is a Contributor entrusted with the direction and maintenance of a specific Lylink project. 
-Keepers are the equivalent of Project Leads in other organizations.
-
-Keepers are responsible for:
-
-- Directing the project's development
-- Maintaining its roadmap and priorities
-- Coordinating contributors
-- Reviewing contributions
-- Making project-level decisions
-- Managing releases
-- Ensuring the project remains maintained
-
-A Keeper's authority is generally limited to the project they are responsible
-for.
-
-A project may have more than one Keeper when appropriate.
+- A Contributor entrusted with the direction and maintenance of a
+  specific Lylink project. Equivalent to Project Leads elsewhere.
+- Can make project-level decisions and is responsible for development,
+  priorities, coordination, reviews, releases, and long-term maintenance.
+- Authority is generally limited to the project they keep.
 
 ### Warden
 
-A **Warden** is entrusted with the administration and well-being of Lylink as a whole.
-Wardens are the equivalent of Community Administrators in other organizations.
-
-Wardens are responsible for:
-
-- Organization policies and governance
-- Enforcement of the Code of Conduct
-- Resolving issues that extend beyond individual projects
-- Managing Lylink's GitHub and Discord infrastructure
-- Appointing, supporting, and replacing Keepers when necessary
+- A member entrusted with the administration and well-being of
+  Lylink as a whole. Equivalent to Community Administrators elsewhere.
+- Can make organization-level decisions and is responsible for governance,
+  policies, infrastructure, and the well-being of the community.
+- Authority extends across Lylink and its projects.
 
 ### Founder
 
-The **Founder** holds final authority over all matters concerning Lylink.
-
-The Founder may delegate responsibility and authority to Wardens and Keepers
-without relinquishing ultimate responsibility for Lylink.
+- The Founder holds final authority over Lylink.
+- Can delegate responsibility and authority to Wardens and Keepers.
 
 ## Authority
 
@@ -97,7 +57,8 @@ maintaining a coherent organization.
 
 ## Responsibility and Trust
 
-Roles are based on responsibility and trust rather than seniority alone.
+Roles are based on responsibility and trust. Seniority is taken into consideration,
+but is not necessarily a determining factor.
 
 Not every Contributor needs to become a Keeper, and not every Keeper needs to
 become a Warden. Taking on a role means accepting the responsibilities that
