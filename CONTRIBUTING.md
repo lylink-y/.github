@@ -18,6 +18,19 @@ Not every contribution needs to be code. You can contribute by:
 
 Of course, code contributions are welcome too.
 
+## Coding Guidelines
+
+Contributors should generally aim to write code that is clear, consistent, maintainable, and appropriate to the project. In particular:
+
+* Prefer clarity and readability over cleverness.
+* Follow the conventions and idioms of the language being used.
+* Keep changes focused and avoid unnecessary modifications.
+* Use meaningful identifiers for variables, functions, classes, and other code elements.
+* Document code when its purpose or behavior is not readily apparent. When in doubt, document.
+* Consider error handling, edge cases, and potential security implications where appropriate.
+
+Individual projects may adopt their own coding style and conventions. The project's Keeper may, for instance, choose an established style guide, such as the Google Style Guides, or define additional conventions appropriate to the project. Contributors should follow the style and conventions adopted by the project.
+
 ## Suggesting projects
 
 Have an idea for a project? We'd love to hear it.
@@ -40,8 +53,7 @@ The general workflow for contributing to a project is:
 8. **Review**: discuss feedback and make any necessary revisions.
 9. **Merge**: once the contribution has been approved, it can be merged into the project.
 
-If you're new to this, check issues marked as suitable for new
-contributors, or ask in the project's discussion channels.
+If you're new to this, check issues marked as suitable for new contributors, or ask in the project's discussion channels.
 
 ## Pull requests
 
