@@ -1,7 +1,9 @@
 # Contributing to Lylink projects
 
-Lylink is built around learning by doing. Contributions are an opportunity
-to improve our projects while learning from one another.
+Lylink is built around learning by doing. 
+Contributions are an opportunity to improve our projects while learning from one another.
+
+This document explains how to do so in our organization.
 
 Everyone is welcome to contribute.
 
@@ -21,11 +23,9 @@ Of course, code contributions are welcome too.
 
 Have an idea for a project? We'd love to hear it.
 
-Project ideas can be proposed in the appropriate Lylink Discord channel.
-Follow the guidelines there and see if others are interested in working on it.
+Project ideas can be proposed in the appropriate Lylink Discord channel. Follow the guidelines there and see if others are interested in working on it.
 
-Ideas that gain enough interest can be developed into a formal project proposal and
-considered for adoption as a Lylink project.
+Ideas that gain enough interest can be developed into a formal project proposal and considered for adoption as a Lylink project.
 
 ## Working on a project
 
@@ -48,12 +48,11 @@ contributors, or ask in the project's discussion channels.
 
 Keep contributions focused and explain what you changed and why.
 
-As noted, contributions may be reviewed, discussed, and revised before being merged.
+As noted, contributions may be reviewed, discussed, and revised before being merged. 
 A contribution may ultimately be rejected, and that's okay. There may still be other ways to participate and contribute.
 
 ## Learn together
 
 Questions are welcome. Mistakes are part of the process.
 
-We care about building good projects, but also about creating an environment
-where people can learn how to build them.
+We care about building good projects, but also about creating an environment where people can learn how to build them.
