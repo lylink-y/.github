@@ -11,7 +11,6 @@ lylink-y/<project-name>/
 └── .gitignore
 ```
 
-Lylink projects may use different open-source licenses depending on the project's needs. 
-MIT is the recommended default for projects without a specific licensing requirement.
+Lylink projects may use different open-source licenses depending on the project's needs. MIT is the recommended default for projects without a specific licensing requirement.
 
 Additional files such as CONTRIBUTING.md, SECURITY.md, docs/, and tests/ should be included when useful. 
