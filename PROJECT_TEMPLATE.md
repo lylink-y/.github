@@ -2,13 +2,14 @@
 
 Projects should include the files and directories appropriate to their scope and technology. 
 
-At minimum, an open-source project should have a `README.md` and an appropriate `LICENSE`, like so: 
+At minimum, an open-source project should have a `README.md`, an appropriate `LICENSE`, and a .gitignore, like so: 
 
 ```text
 lylink-y/<project-name>/
 ├── README.md
-└── LICENSE
-````
+├── LICENSE
+└── .gitignore
+```
 
 Lylink projects may use different open-source licenses depending on the project's needs. 
 MIT is the recommended default for projects without a specific licensing requirement.
