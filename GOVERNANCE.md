@@ -1,79 +1,58 @@
-# Lylink Governance
-
-Lylink uses several roles to represent different levels of participation,
-trust, and responsibility.  
+# Governance
 
 ## Roles
 
-### Member
-
-- Participates in Lylink.
-- Can discuss, ask questions, share knowledge, participate in projects,
-  suggest ideas, and help others.
-- Has no formal organizational authority.
+Roles exist to distribute responsibility and authority according to each person's level of involvement and the responsibilities they have taken on.
 
 ### Contributor
 
-- A Member who makes meaningful contributions to projects, infrastructure,
-  or the community.
-- May receive additional access or responsibility according to involvement
-  and trust, but has no formal organizational authority by virtue of the role.
+**Contributors** are team members of a Lylink project. They contribute to the development, maintenance, or other work related to the projects they are part of.
 
 ### Keeper
 
-- A Contributor entrusted with the direction and maintenance of a
-  specific Lylink project. Equivalent to Project Leads elsewhere.
-- Can make project-level decisions and is responsible for development,
-  priorities, coordination, reviews, releases, and long-term maintenance.
-- Authority is generally limited to the project they keep.
+**Keepers** are responsible for individual projects. They maintain the project's repository, coordinate its development, review and integrate contributions, and guide its direction.
 
 ### Warden
 
-- A member entrusted with the administration and well-being of
-  Lylink as a whole. Equivalent to Community Administrators elsewhere.
-- Can make organization-level decisions and is responsible for governance,
-  policies, infrastructure, and the well-being of the community.
-- Authority extends across Lylink and its projects.
+**Wardens** administer Lylink as a whole. They are responsible for governance, infrastructure, organization-wide policies, and matters that extend beyond individual projects.
+
+Wardens have administrative access to Lylink's teams and repositories.
 
 ### Founder
 
-- The Founder holds final authority over Lylink.
-- Can delegate responsibility and authority to Wardens and Keepers.
+The **Founder** has final authority over Lylink and is ultimately responsible for the collective.
 
-## Authority
+The Founder may delegate authority to Wardens and Keepers while retaining final authority over Lylink as a whole.
 
-Lylink follows the principle:
+## Decision-Making
 
-> **Authority should exist at the lowest level capable of making the decision.**
+Lylink follows a simple principle:
 
-Project-level decisions should generally be made by the relevant Keeper.
+> **Decisions should be made at the lowest level capable of making them.**
 
-Organization-level decisions should generally be handled by the Wardens.
+* Contributors decide matters concerning their own contributions.
+* Keepers decide matters concerning their projects.
+* Wardens decide matters concerning Lylink as a whole.
+* The Founder retains final authority.
 
-The Founder retains ultimate authority when necessary.
+## Appointments and Removal
 
-This structure is intended to allow projects to operate independently while
-maintaining a coherent organization.
+Roles are granted based on contribution, responsibility, and trust. Seniority may be taken into consideration, but is not necessarily determinative.
 
-## Responsibility and Trust
+Roles are generally appointed and removed by the role directly above them:
 
-Roles are based on responsibility and trust. Seniority is taken into consideration,
-but is not necessarily a determining factor.
+* Keepers appoint and remove Contributors.
+* Wardens appoint and remove Keepers.
+* The Founder may appoint or remove anyone in the hierarchy when necessary.
 
-Not every Contributor needs to become a Keeper, and not every Keeper needs to
-become a Warden. Taking on a role means accepting the responsibilities that
-come with it.
+Roles may be removed when their responsibilities are no longer being fulfilled or when circumstances otherwise require it.
 
-Roles may change as a person's responsibilities or circumstances change.
+## Enforcement
 
-## Projects
+Violations of Lylink's rules or Code of Conduct may result in warnings, restrictions, removal of roles or access, suspension, or removal from Lylink.
 
-Every official Lylink project should have at least one Keeper responsible for
-its direction and maintenance.
-
-A project without an active Keeper should be considered in need of
-maintenance and may be reassigned, paused, or archived.
+Wardens handle enforcement. Serious or organization-wide matters may be escalated to the Founder.
 
 ## Changes to Governance
 
-This document may evolve as Lylink grows.
+Changes to Lylink's governance, roles, or distribution of authority are discussed by the Wardens and approved by the Founder.
