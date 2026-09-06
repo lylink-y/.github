@@ -1,7 +1,6 @@
 # Contributing to Lylink projects
 
-Lylink is built around learning by doing. 
-Contributions are an opportunity to improve our projects while learning from one another.
+Lylink is built around learning by doing. Contributions are an opportunity to improve our projects while learning from one another.
 
 This document explains how to do so in our organization.
 
@@ -48,8 +47,7 @@ contributors, or ask in the project's discussion channels.
 
 Keep contributions focused and explain what you changed and why.
 
-As noted, contributions may be reviewed, discussed, and revised before being merged. 
-A contribution may ultimately be rejected, and that's okay. There may still be other ways to participate and contribute.
+As noted, contributions may be reviewed, discussed, and revised before being merged. A contribution may ultimately be rejected, and that's okay. There may still be other ways to participate and contribute.
 
 ## Learn together
 
