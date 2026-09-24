@@ -1,13 +1,23 @@
 # Lylink
 
-Trying to build a project on your own can feel isolating. You don't have anyone to ask questions, discuss ideas with, share your excitement, or work through
-problems together. At the same time, finding something that's right for your skill level and gives you a real way to contribute and learn can be difficult.
-You may end up hopping from one thing to another without ever settling in, building relationships, or developing a solid understanding of what you're doing.
+**The best way to learn is by doing.**
 
-**Lylink is built to fill that gap.** We provide a structure where people can easily propose projects, find others to build with, and learn through doing.
-Projects can be practical or educational, simple or ambitious. What matters is having people to work with and a place to keep learning.
+People often want to build things, but don't know where to start. Finding a project can be difficult; finding one that welcomes newcomers, has people to learn from, and gives you a clear place to contribute can be even harder. And while you can always decide to go about it by yourself, the solitude may eventually grind you down. At the end of the day, we want to build meaningful relationships. Besides, you'll always have to work with other people.
 
----
+Lylink exists to provide this collective experience without losing sight of the work itself. We do so by creating a structure where people can propose projects, find others to build with, and learn through doing. Projects can be practical or educational, simple or ambitious. What matters is having a place to start, people to build with, and room to grow together.
 
-**Join us on Discord:** https://discord.gg/3u3nGFBsUn
+## Organization Documents
 
+The following documents define how Lylink's repositories are organized and maintained.
+
+* **[Code of Conduct](docs/CODE_OF_CONDUCT.md)** — Standards of conduct expected from everyone participating in Lylink projects.
+* **[Contributing](docs/CONTRIBUTING.md)** — General guidelines for contributing to Lylink repositories.
+* **[Governance](docs/GOVERNANCE.md)** — Defines Lylink's organizational roles, responsibilities, and authority.
+* **[Security](docs/SECURITY.md)** — Guidelines for reporting and handling security vulnerabilities.
+* **[Project Template](docs/PROJECT_TEMPLATE.md)** — Requirements and conventions for creating and organizing Lylink project repositories.
+
+Individual repositories may contain additional documentation and guidelines specific to their project.
+
+## Administration
+
+**[per3grin0](https://github.com/per3grin0-y)** - Founder
