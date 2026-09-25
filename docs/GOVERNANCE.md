@@ -15,4 +15,4 @@ Those who contribute to or participate in Lylink in some capacity without holdin
 
 The Founder may appoint or remove anyone within the organizational hierarchy. In practice, Keeper appointments and removals are generally left to a Warden, while Member appointments and removals are generally left to the relevant Keeper.
 
-Appointments and removals are based on the individual's contributions, [conduct](docs/CODE_OF_CONDUCT.md), reliability, and ability to fulfill the responsibilities of the role.
+Appointments and removals are based on the individual's contributions, [conduct](CODE_OF_CONDUCT.md), reliability, and ability to fulfill the responsibilities of the role.
