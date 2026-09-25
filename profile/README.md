@@ -10,11 +10,11 @@ Lylink exists to provide this collective experience without losing sight of the 
 
 The following documents define how Lylink's repositories are organized and maintained.
 
-* **[Code of Conduct](docs/CODE_OF_CONDUCT.md)** — Standards of conduct expected from everyone participating in Lylink projects.
-* **[Contributing](docs/CONTRIBUTING.md)** — General guidelines for contributing to Lylink repositories.
-* **[Governance](docs/GOVERNANCE.md)** — Defines Lylink's organizational roles, responsibilities, and authority.
-* **[Security](docs/SECURITY.md)** — Guidelines for reporting and handling security vulnerabilities.
-* **[Project Template](docs/PROJECT_TEMPLATE.md)** — Requirements and conventions for creating and organizing Lylink project repositories.
+* **[Code of Conduct](../docs/CODE_OF_CONDUCT.md)** — Standards of conduct expected from everyone participating in Lylink projects.
+* **[Contributing](../docs/CONTRIBUTING.md)** — General guidelines for contributing to Lylink repositories.
+* **[Governance](../docs/GOVERNANCE.md)** — Defines Lylink's organizational roles, responsibilities, and authority.
+* **[Security](../docs/SECURITY.md)** — Guidelines for reporting and handling security vulnerabilities.
+* **[Project Template](../docs/PROJECT_TEMPLATE.md)** — Requirements and conventions for creating and organizing Lylink project repositories.
 
 Individual repositories may contain additional documentation and guidelines specific to their project.
 
