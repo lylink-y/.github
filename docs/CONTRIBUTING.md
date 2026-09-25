@@ -21,7 +21,7 @@ In general:
 5. Open a reasonably sized pull request with a clear description of what you changed and why.
 6. Be willing to discuss and revise your contribution.
 
-Not every contribution needs to be code. You can also contribute by improving documentation, testing and reporting bugs, or helping other contributors. For security vulnerabilities, please refer to our [Security Guidelines](docs/SECURITY.md).
+Not every contribution needs to be code. You can also contribute by improving documentation, testing and reporting bugs, or helping other contributors. For security vulnerabilities, please refer to our [Security Guidelines](SECURITY.md).
 
 ## Proposing a Project
 
