@@ -6,6 +6,8 @@ People often want to build things, but don't know where to start. Finding a proj
 
 Lylink exists to provide this collective experience without losing sight of the work itself. We do so by creating a structure where people can propose projects, find others to build with, and learn through doing. Projects can be practical or educational, simple or ambitious. What matters is having a place to start, people to build with, and room to grow together.
 
+If you want to take full advantage of what we have to offer, join our Discord server: https://discord.gg/y4bAawvSH8 
+
 ## Organization Documents
 
 The following documents define how Lylink's repositories are organized and maintained.
